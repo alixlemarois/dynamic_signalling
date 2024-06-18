@@ -5,8 +5,6 @@
 %% SECTION 0 - initialise
 addpath('Code')
 addpath('Code/bfmatlab')
-addpath('Code/notboxplot/code')
-addpath('Code/sigstar')
 addpath('Data')
 
 root_dir = pwd
